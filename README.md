@@ -1,11 +1,17 @@
-
 │  awesomeProject.exe
+
 │  config.yaml
+
 │  go.mod
+
 │  go.sum
+
 │  main.go
+
 │  makefile
+
 │  web_app.log
+
 │
 ├─.idea
 │      .gitignore
